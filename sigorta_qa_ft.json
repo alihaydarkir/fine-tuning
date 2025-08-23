@@ -1,0 +1,358 @@
+[
+  {
+    "input": "Bu kanunun amacı nedir?",
+    "output": "Bu Kanunun amacı, ülkemiz sigortacılığının geliştirilmesini sağlamak, sigorta sözleşmesinde yer alan kişilerin hak ve menfaatlerini korumak ve sigortacılık sektörünün güvenli ve istikrarlı bir ortamda etkin bir şekilde çalışmasını temin etmektir."
+  },
+  {
+    "input": "Sigortacılık Kanunu kapsamında hangi kuruluşlar yer alır?",
+    "output": "Türkiye'de faaliyet gösteren sigorta şirketleri, reasürans şirketleri, Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği, aracılar, aktüerler ile sigorta eksperleri bu Kanun hükümlerine tâbidir."
+  },
+  {
+    "input": "Aktüer nasıl tanımlanır?",
+    "output": "Aktüer, sigortacılık tekniği ile buna ilişkin yatırım, finansman ve demografi konularında olasılık ve istatistik teorilerini uygulayarak, yasal düzenlemelere uygun prim, karşılık ve kâr paylarını hesaplayan, tarife ve teknik esasları hazırlayan kişidir."
+  },
+  {
+    "input": "Broker kimdir?",
+    "output": "Broker, sigorta veya reasürans sözleşmesi yaptırmak isteyenleri temsil ederek, bu sözleşmelerin yaptırılacağı şirketlerin seçiminde tamamen tarafsız ve bağımsız davranarak ve teminat almak isteyen kişilerin hak ve menfaatlerini gözeterek sözleşmelerin akdinden önceki hazırlık çalışmalarını yürütmeyi meslek edinen kişidir."
+  },
+  {
+    "input": "Sigorta acentesi nasıl tanımlanır?",
+    "output": "Sigorta acentesi, ticarî mümessil, ticarî vekil, satış memuru veya müstahdem gibi tâbi bir sıfatı olmaksızın bir sözleşmeye dayanarak muayyen bir yer veya bölge içinde daimî bir surette sigorta şirketlerinin nam ve hesabına sigorta sözleşmelerine aracılık etmeyi meslek edinen kişidir."
+  },
+  {
+    "input": "Sigorta eksperi kimdir?",
+    "output": "Sigorta eksperi, sigorta konusu risklerin gerçekleşmesi sonucunda ortaya çıkan kayıp ve hasarların miktarını, nedenlerini ve niteliklerini belirleyen ve mutabakatlı kıymet tespiti, ön ekspertiz ve hasar gözetimi gibi işleri mutat meslek olarak yapan tarafsız ve bağımsız kişidir."
+  },
+  {
+    "input": "Sigorta şirketleri hangi şirket türünde kurulabilir?",
+    "output": "Türkiye'de faaliyet gösterecek sigorta şirketleri ile reasürans şirketlerinin anonim şirket veya kooperatif şeklinde kurulmuş olması şarttır."
+  },
+  {
+    "input": "Sigorta şirketleri başka işlerle uğraşabilir mi?",
+    "output": "Sigorta şirketleri ve reasürans şirketleri, sigortacılık işlemleri ve bunlarla doğrudan bağlantısı bulunan işler dışında başka işle iştigal edemez."
+  },
+  {
+    "input": "Sigorta şirketlerinin kurucularında hangi şartlar aranır?",
+    "output": "Kurucuların müflis veya konkordato ilan etmiş olmaması, malî güce ve itibara sahip bulunması, taksirli suçlar hariç olmak üzere hapis veya zimmet, irtikâp, rüşvet gibi yüz kızartıcı suçlardan hüküm giymemiş olması gerekir."
+  },
+  {
+    "input": "Sigorta şirketlerinin hisse senetleri nasıl olmalıdır?",
+    "output": "Hisse senetlerinin nakit karşılığı çıkarılması ve halka açık anonim şirketlerde halka açık olan kısım hariç olmak üzere tamamının nama yazılı olması zorunludur."
+  },
+  {
+    "input": "Kooperatif şeklindeki sigorta şirketlerinin şartları nelerdir?",
+    "output": "Mütüel (karşılıklı) sigortacılık yapması, ortak sayısının ikiyüzden az olmaması, yöneticilerine herhangi bir ayrıcalık vermemesi zorunludur."
+  },
+  {
+    "input": "Yabancı sigorta şirketlerinin Türkiye'de faaliyeti nasıl düzenlenir?",
+    "output": "Yabancı sigorta şirketlerinin ve reasürans şirketlerinin Türkiye'de faaliyet göstermesine ilişkin usûl ve esaslar Cumhurbaşkanı tarafından belirlenir."
+  },
+  {
+    "input": "Sigorta şirketlerinin yönetim kurulu kaç kişiden oluşur?",
+    "output": "Sigorta şirketleri ve reasürans şirketlerinin yönetim kurulları genel müdür dâhil beş kişiden, denetçiler ise iki kişiden az olamaz."
+  },
+  {
+    "input": "Genel müdürün yönetim kurulundaki konumu nedir?",
+    "output": "Genel müdür, yönetim kurulunun doğal üyesidir."
+  },
+  {
+    "input": "Yönetim kurulu üyelerinde hangi şartlar aranır?",
+    "output": "Yönetim kurulu üyelerinin malî güç dışında kurucularda aranan şartları taşıması; çoğunluğunun en az dört yıllık yüksek öğrenim görmüş olması ve sigortacılık, iktisat, işletme, muhasebe, hukuk, maliye, matematik, istatistik, aktüerya veya mühendislik alanlarında en az üç yıl deneyimi olması şarttır."
+  },
+  {
+    "input": "Genel müdürde hangi deneyim şartları aranır?",
+    "output": "Genel müdürlüğe atanacakların en az on yıl, sigortacılık veya sigortacılık tekniği ile ilgili konulardan sorumlu genel müdür yardımcılıklarına atanacakların yedi yıldan az olmamak üzere deneyim sahibi olması şarttır."
+  },
+  {
+    "input": "İç kontrol sistemi kurma yükümlülüğü var mı?",
+    "output": "Sigorta şirketleri ile reasürans şirketleri; tüm iş ve işlemlerinin sürekli kontrol edilmesi, denetlenmesi ile hata, hile ve usulsüzlüklerin tespiti ve önlenmesi amacıyla iç denetim ve risk yönetimini kapsayacak şekilde etkin bir iç kontrol sistemi kurmak zorundadır."
+  },
+  {
+    "input": "Ruhsat almak için ne yapılmalıdır?",
+    "output": "Sigorta şirketleri ve reasürans şirketleri, faaliyete geçebilmek için, faaliyet göstermek istedikleri her bir sigorta branşında Müsteşarlıktan ruhsat almak zorundadır."
+  },
+  {
+    "input": "Sigorta şirketleri kaç grupta faaliyet gösterebilir?",
+    "output": "Sigorta şirketleri hayat ve hayat dışı sigorta gruplarından sadece birinde faaliyet gösterebilir."
+  },
+  {
+    "input": "Asgari ödenmiş sermaye tutarı nedir?",
+    "output": "Ödenmiş sermayelerini, beş milyon Türk Lirasından az olmamak kaydıyla, Müsteşarlıkça belirlenecek miktara yükseltmek zorundadır."
+  },
+  {
+    "input": "Ruhsat talebinin reddedildiği haller nelerdir?",
+    "output": "Kurucular ve yöneticilerin şartları taşımaması, iş planına göre sigortalıların haklarının korunamayacağının anlaşılması, başvurunun yeterli beyan ve bilgileri içermemesi, teknik donanım veya nitelikli personel yetersizliği hallerde ruhsat talebi reddedilir."
+  },
+  {
+    "input": "Ruhsat hangi hallerde iptal edilir?",
+    "output": "Ruhsat şartlarının kaybolması, bir yıl içinde sözleşme akdedilmemesi, sigortacılık mevzuatına aykırı uygulamalar, kanun hükümlerinin ağır şekilde ihlâli, iş planından aşırı derecede uzaklaşılması hallerinde ruhsat iptal edilebilir."
+  },
+  {
+    "input": "Ana sözleşme değişikliklerinde nasıl bir prosedür izlenir?",
+    "output": "Sigorta şirketleri ile reasürans şirketlerinin ana sözleşmelerinin değiştirilmesinde Müsteşarlığın uygun görüşü aranır. Müsteşarlıkça uygun görülmeyen değişiklik tasarıları genel kurul gündemine alınamaz."
+  },
+  {
+    "input": "Hisse ediniminde hangi oranlar Müsteşarlık iznine tabidir?",
+    "output": "Doğrudan veya dolaylı olarak bir sigorta veya reasürans şirketinin sermayesinin yüzde onunu, yüzde yirmisini, yüzde otuzüçünü veya yüzde ellisini bulacak ya da aşacak şekildeki hisse edinimleri Müsteşarlığın iznine tâbidir."
+  },
+  {
+    "input": "Tasfiye, birleşme ve devir işlemleri kimin iznine tabidir?",
+    "output": "Bir sigorta şirketinin kendi talebi ile tasfiye edilmesi, bir veya birkaç şirket ile birleşmesi veya aktif ve pasifleri ile başka bir şirkete devrolunması, sigorta portföyünü devretmesi Bakanın iznine tâbidir."
+  },
+  {
+    "input": "Sigorta sözleşmelerinin ana muhtevası nasıl düzenlenir?",
+    "output": "Sigorta sözleşmelerinin ana muhtevası, Müsteşarlıkça onaylanan ve sigorta şirketlerince aynı şekilde uygulanacak olan genel şartlara uygun olarak düzenlenir."
+  },
+  {
+    "input": "Hayat sigortalarında sözleşme ne zaman yapılmış sayılır?",
+    "output": "Hayat sigortalarına ilişkin sözleşmelerin yapılmasına dair teklifnamenin sigorta şirketine ulaştığı tarihten itibaren otuz gün içinde sigorta şirketi tarafından reddedilmemesi halinde sigorta sözleşmesi yapılmış olur."
+  },
+  {
+    "input": "Sigorta sözleşmelerinde yabancı kelime kullanılabilir mi?",
+    "output": "Sigorta sözleşmelerinde yabancı kelimelere yer verilemez. Yabancı kelimelerin karşılığı olarak Türk Dil Kurumu tarafından belirlenen kelimelerin kullanımı esastır."
+  },
+  {
+    "input": "Sigorta tarifeleri nasıl belirlenir?",
+    "output": "Sigorta tarifeleri, sigortacılık esasına ve genel kabul görmüş aktüeryal tekniklere uygun olarak sigorta şirketleri tarafından serbestçe belirlenir."
+  },
+  {
+    "input": "Zorunlu sigortalar kim tarafından ihdas edilir?",
+    "output": "Cumhurbaşkanı, kamu yararı açısından gerekli gördüğü hallerde zorunlu sigortalar ihdas edebilir."
+  },
+  {
+    "input": "Güvence Hesabı nedir ve ne amaçla oluşturulur?",
+    "output": "Güvence Hesabı, zorunlu sorumluluk sigortalarına ilişkin olarak belirli koşulların oluşması halinde ortaya çıkan zararların bu sigortalarla saptanan geçerli teminat miktarlarına kadar karşılanması amacıyla Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği nezdinde oluşturulur."
+  },
+  {
+    "input": "Güvence Hesabına hangi durumlarda başvurulabilir?",
+    "output": "Sigortalının tespit edilememesi, sigortasını yaptırmamış olanların neden olduğu zararlar, sigorta şirketinin ruhsat iptali veya iflası, çalınmış araçların karıştığı kazalar ve Yeşil Kart uygulamaları için başvurulabilir."
+  },
+  {
+    "input": "Güvence Hesabının gelirleri nelerden oluşur?",
+    "output": "Hesabın gelirleri; zorunlu sigortalar için tahsil edilen toplam primlerin yüzde biri oranında sigorta şirketlerince ödenecek katılma payları ile sigorta ettirenlerden safî primlerin yüzde ikisi oranında tahsil edilecek katılma paylarından oluşur."
+  },
+  {
+    "input": "Türkiye'de yerleşik kişiler sigortalarını nerede yaptırmak zorunda?",
+    "output": "Türkiye'de yerleşik kişiler, Türkiye'deki sigortalanabilir menfaatlerini, Türkiye'de faaliyette bulunan sigorta şirketlerine ve Türkiye'de yaptırmak zorundadır."
+  },
+  {
+    "input": "Hangi sigortalar yurt dışında yaptırılabilir?",
+    "output": "İhracat ve ithalat konusu mallar için nakliyat sigortası, uçak, gemi, helikopter için tekne sigortaları, gemilerin işletilmesinden doğan sorumluluk sigortası, hayat sigortaları ve kişilerin yurt dışında bulunacakları süre için ferdî kaza, hastalık sigortaları yurt dışında yaptırılabilir."
+  },
+  {
+    "input": "Teknik karşılık ayırma yükümlülüğü var mı?",
+    "output": "Sigorta şirketleri ve reasürans şirketleri sigorta sözleşmelerinden doğan yükümlülükleri için yeteri kadar karşılık ayırmak zorundadır."
+  },
+  {
+    "input": "Kazanılmamış primler karşılığı nedir?",
+    "output": "Kazanılmamış primler karşılığı; yürürlükte bulunan her bir sigorta sözleşmesine ilişkin olarak yazılan brüt primin gün esasına göre takip eden hesap dönemine sarkan kısmından oluşur."
+  },
+  {
+    "input": "Matematik karşılık ne için ayrılır?",
+    "output": "Matematik karşılık; bir yıldan uzun süreli hayat, sağlık, hastalık ve ferdî kaza sigortası sözleşmeleri için sigorta şirketleri tarafından sigorta ettirenler ile lehdarlara olan yükümlülüklerini karşılamak üzere ayrılan karşılıktır."
+  },
+  {
+    "input": "Muallâk tazminat karşılığı nedir?",
+    "output": "Muallâk tazminat karşılığı; kayda geçmiş ancak ödenmemiş tazminat tutarları ile gerçekleşmiş ancak kayda geçmemiş tahmini tazminat tutarları ve bu tazminatlar ile ilgili yapılan gider karşılıklarından oluşur."
+  },
+  {
+    "input": "Teminat ayırma yükümlülüğü kimde var?",
+    "output": "Sigorta şirketleri, yurt içinde akdetmiş oldukları sigorta sözleşmelerinden doğan taahhütlerine karşılık olarak teminat ayırmak zorundadır."
+  },
+  {
+    "input": "Hayat branşındaki sigorta şirketleri hangi teminatları ayırır?",
+    "output": "Hayat branşında faaliyet gösteren sigorta şirketleri, matematik karşılıkları ile muallak tazminat karşılıklarının toplamına karşılık gelen varlıkları Müsteşarlık lehine teminat olarak bloke veya ipotek ettirmek zorundadır."
+  },
+  {
+    "input": "Minimum garanti fonu nedir?",
+    "output": "Minimum garanti fonu, sigorta şirketleri ile reasürans şirketleri için gerekli özsermayenin en az üçte birine denk düşen tutardır."
+  },
+  {
+    "input": "Teminatlar haczedilebilir mi?",
+    "output": "Teminatlar, sigortalıların tüm alacakları ödenmeden iflas veya tasfiye masasına dâhil edilemez, haczolunamaz, üzerlerine ihtiyati tedbir ve ihtiyati haciz konulamaz."
+  },
+  {
+    "input": "Sigorta şirketleri malî tablolarını nasıl düzenler?",
+    "output": "Sigorta şirketleri ve reasürans şirketleri, hesaplarını ve malî tablolarını, Müsteşarlıkça belirlenecek esaslara ve örneğe uygun olarak düzenlemek, ilan ettirmek ve Müsteşarlığa göndermek zorundadır."
+  },
+  {
+    "input": "Bağımsız denetim zorunluluğu var mı?",
+    "output": "Sigorta şirketleri ile reasürans şirketleri bilançolarının, kâr ve zarar cetvellerinin ve Müsteşarlıkça uygun görülecek diğer malî tablolarının bağımsız denetim kuruluşlarına denetlettirilmesi ve ilan ettirilmesi zorunludur."
+  },
+  {
+    "input": "Aktif azaltıcı işlem yasağı nedir?",
+    "output": "Sigorta şirketlerinin ortakları, yönetim kurulu üyeleri, denetçileri ve çalışanları, şirket kaynaklarını dolaylı ya da dolaysız kullanamaz, iyiniyet kurallarına aykırı olarak aktifin değerini düşüren işlemlerde bulunamaz."
+  },
+  {
+    "input": "Malî bünyenin güçlendirilmesi hangi hallerde istenir?",
+    "output": "Minimum garanti fonu tutarını karşılayamama, teminat tesis edememe, teknik karşılıkları karşılayacak varlıkların bulunmaması, sözleşme yükümlülüklerini yerine getirememe hallerinde malî bünyenin güçlendirilmesi istenir."
+  },
+  {
+    "input": "Bakan malî bünye güçlendirme kapsamında hangi tedbirleri alabilir?",
+    "output": "Bakan; iyileştirme planı sunulması, sermaye artırımı, varlık elden çıkarılması, sigorta portföyünü devretme, yönetim kurulu üyelerini görevden alma, kayyım atama gibi tedbirleri alabilir."
+  },
+  {
+    "input": "Yeni sigorta sözleşmesi akdetme yetkisi ne zaman kaldırılır?",
+    "output": "Tedbirlerin uygulanmaması, ödemelerin tatil edilmesi, yükümlülüklerin yerine getirilememesi veya şirket özkaynaklarının minimum garanti fonunun altına düşmesi halinde yeni sigorta sözleşmesi akdetme yetkisi kaldırılır."
+  },
+  {
+    "input": "Aktüerler Sicili kimde tutulur?",
+    "output": "Müsteşarlık tarafından aktüerlerin kaydedildiği bir Aktüerler Sicili tutulur. Sicile kaydolunmadan aktüerlik yapılamaz."
+  },
+  {
+    "input": "Brokerlik ruhsatı kimden alınır?",
+    "output": "Brokerlik, Müsteşarlıktan alınan brokerlik ruhsatı ile yapılır."
+  },
+  {
+    "input": "Kimler brokerlik yapamaz?",
+    "output": "Sigorta şirketlerinin, sigorta acentelerinin ve sigorta eksperlerinin ortakları, yönetim ve denetiminde bulunan kişiler ve bunlar adına imza atmaya yetkili olanlar ile meslekî faaliyette bulunan şirket çalışanları brokerlik yapamaz."
+  },
+  {
+    "input": "Sigorta brokerlerinin sır saklama yükümlülüğü var mı?",
+    "output": "Sigorta brokerleri ve bunların yanlarında çalışanlar, işleri dolayısıyla öğrendikleri bilgi ve sırları ilgililerin izni olmaksızın açıklayamaz."
+  },
+  {
+    "input": "Sigorta şirketlerinin çalışması gereken aktüer sayısı var mı?",
+    "output": "Sigorta şirketleri ile reasürans şirketleri, yeterli sayıda aktüerle çalışmak zorundadır."
+  },
+  {
+    "input": "Destek hizmeti kuruluşu nedir?",
+    "output": "Destek hizmeti kuruluşu, bu Kanun kapsamındaki kuruluşlara, faaliyet alanlarıyla ilgili konularda yardımcı veya tamamlayıcı nitelikte hizmet veren kuruluşlardır."
+  },
+  {
+    "input": "İş planı ne içermelidir?",
+    "output": "İş planı, sigorta şirketleri ile reasürans şirketlerinin kuruluş amacı ile en az ilk üç yıldaki faaliyetlerine ilişkin tahminlerini ve yükümlülüklerini sürekli olarak yerine getirebileceğini ayrıntılı bir şekilde ortaya koyan plandır."
+  },
+  {
+    "input": "Sigorta Tahkim Komisyonu nedir?",
+    "output": "Komisyon, sigorta sözleşmesinden doğan uyuşmazlıkların çözümlenmesine yönelik olarak kurulan Sigorta Tahkim Komisyonudur."
+  },
+  {
+    "input": "Levha nedir?",
+    "output": "Levha, Türkiye'de faaliyette bulunan sigorta şirketleri, reasürans şirketleri ile emeklilik şirketleri için Birlik tarafından, sigorta eksperleri ve sigorta acenteleri için Türkiye Odalar ve Borsalar Birliği tarafından düzenlenecek faal olarak çalışanlara ilişkin kayıtları gösterir levhalardır."
+  },
+  {
+    "input": "Özkaynak nasıl hesaplanır?",
+    "output": "Özkaynak, sigorta şirketlerinin ödenmiş sermayeleri, her türlü yedek akçeleri, yeniden değerleme fonu, dağıtılmamış kâr ile Müsteşarlıkça uygun görülecek sermaye benzeri kaynaklardan varsa bilanço zararının düşülmesinden sonra bulunan tutardır."
+  },
+  {
+    "input": "Sigorta raportörü kimdir?",
+    "output": "Sigorta raportörü, sigorta ettiren veya sigorta sözleşmesinden menfaat sağlayan kişiler ile riski üstlenen taraf arasında sigorta sözleşmesinden doğan uyuşmazlıkların çözümü amacıyla Komisyona intikal etmiş şikâyetler üzerinde ön incelemeyi yapan kişidir."
+  },
+  {
+    "input": "Holding bünyesindeki sigorta şirketleri için ek şart var mı?",
+    "output": "Bir holding bünyesinde faaliyet gösterecek olması halinde, holding şirketinin finansal durumunun da sigortacılık faaliyetlerini idame ettirmeye yeterli olması zorunludur."
+  },
+  {
+    "input": "Kooperatif sigorta şirketleri üyeleri dışındakilerle sözleşme yapabilir mi?",
+    "output": "Kooperatiflerin, üyeleri dışındaki kişilerle sigorta sözleşmesi yapabilmesi, bu hususun ana sözleşmelerinde açıkça yer alması şartıyla Müsteşarlığın iznine tâbidir."
+  },
+  {
+    "input": "Denetçilerde hangi şartlar aranır?",
+    "output": "Denetçilerin, malî güç dışında kurucularda aranan şartları taşımaları, en az dört yıllık yüksek öğrenim görmüş olmaları ve sigortacılık, iktisat, hukuk, maliye, işletme ve muhasebe alanlarında en az üç yıl deneyimi olan kişilerden seçilmesi şarttır."
+  },
+  {
+    "input": "Ruhsat iptali nasıl ilan edilir?",
+    "output": "Ruhsat iptali, ticaret siciline tescil ve Ticaret Sicil Gazetesi ile Türkiye çapında dağıtımı yapılan ve tiraj bakımından ilk on sırada yer alan günlük gazetelerden ikisinde ilan ettirilir."
+  },
+  {
+    "input": "Ruhsatı iptal edilen şirketler portföylerini ne kadar sürede devretmeli?",
+    "output": "Ruhsatı iptal edilen şirketler, altı ayı geçmemek üzere Müsteşarlık tarafından verilecek süre içinde iptal edilen ruhsatla bağlantılı portföylerini devretmek zorundadır."
+  },
+  {
+    "input": "İzinsiz yapılan hisse devirleri pay defterine kaydolur mu?",
+    "output": "Müsteşarlık iznine aykırı olarak izin alınmaksızın yapılan hisse devirleri pay defterine kaydolunmaz."
+  },
+  {
+    "input": "Kuruculardan aranan nitelikleri kaybeden ortakların durumu nedir?",
+    "output": "Kurucularda aranan nitelikleri kaybeden ortaklar temettü dışındaki ortaklık haklarından yararlanamaz. Bu halde diğer ortaklık hakları kayyım tarafından kullanılır."
+  },
+  {
+    "input": "Bakan hisse sınırlamaları getirebilir mi?",
+    "output": "Bakan, faaliyet alanları itibarıyla sigorta şirketlerinin ve reasürans şirketlerinin malî bünyelerini olumsuz etkileyecek durumdaki ortaklara, bu şirketlerde hisse sınırlamaları getirebilir."
+  },
+  {
+    "input": "Sigorta şirketinin iflasında sigortalılar kaçıncı sıraya girer?",
+    "output": "Sigorta şirketinin iflası halinde sigortalılar, iflas masasına üçüncü sırada iştirak eder."
+  },
+  {
+    "input": "Birleşme ve portföy devirleri nasıl duyurulur?",
+    "output": "Birleşme, devir ve portföy devirleri, Türkiye çapında dağıtımı yapılan ve tiraj bakımından ilk on sırada yer alan günlük gazetelerden ikisinde, birer hafta arayla en az ikişer defa yayımlanmak suretiyle duyurulur."
+  },
+  {
+    "input": "Sigortalılar portföy devri halinde sözleşmelerini feshedebilir mi?",
+    "output": "Sigortalılar birleşme, devir ya da portföy devrini öğrendikleri tarihten itibaren, üç ay içinde sözleşmelerini feshedebilir."
+  },
+  {
+    "input": "Sigorta sözleşmelerinde özel şartlar tesis edilebilir mi?",
+    "output": "Sigorta sözleşmelerinde işin özelliğine uygun olarak özel şartlar tesis edilebilir. Bu hususlar, sigorta sözleşmesi üzerinde ve özel şartlar başlığı altında açık olarak belirtilir."
+  },
+  {
+    "input": "Kapsam dışı bırakılmış riskler nasıl belirtilir?",
+    "output": "Sigorta sözleşmelerinde kapsam dahiline alınmış olan riskler haricinde, kapsam dışı bırakılmış riskler açıkça belirtilir. Belirtilmemiş olan riskler teminat kapsamında sayılır."
+  },
+  {
+    "input": "Zorunlu sigortaların tarife ve talimatları kim tespit eder?",
+    "output": "Bu Kanuna ve diğer kanunlara göre ihdas edilen zorunlu sigortaların teminat tutarları ile tarife ve talimatları Bakan tarafından tespit olunur ve Resmî Gazetede yayımlanır."
+  },
+  {
+    "input": "Sigorta şirketleri zorunlu sigortaları yapmaktan kaçınabilir mi?",
+    "output": "Sigorta şirketleri, faaliyet gösterdiği sigorta branşlarının kapsamında bulunan zorunlu sigortaları yapmaktan kaçınamaz."
+  },
+  {
+    "input": "Zorunlu sigorta denetimi kim yapabilir?",
+    "output": "Müsteşarlık, zorunlu sigortaya konu teşkil eden menfaat üzerinde yapacakları iş ve işlemler nedeniyle, ilgili kurum ve kuruluşların görüşlerini alarak zorunlu sigorta denetimi yapabilecekleri belirlemeye yetkilidir."
+  },
+  {
+    "input": "Geçerli sigorta yapılmamış olduğu tespit edilirse ne olur?",
+    "output": "Geçerli teminat tutarında sigorta yapılmamış olduğunun tespiti halinde işlem yapılmaz. Geçerli teminat alınana kadar sigortalının zorunlu sigortaya konu teşkil eden faaliyeti yetkili merciler tarafından durdurulur."
+  },
+  {
+    "input": "Cumhurbaşkanı eşyaya gelen zararları Hesaptan karşılatabilir mi?",
+    "output": "Cumhurbaşkanı, gerekli görülen hallerde, eşyaya gelecek zararların kısmen veya tamamen Hesaptan karşılanmasına karar vermeye yetkilidir."
+  },
+  {
+    "input": "Katılma payları ne zaman ödenir?",
+    "output": "Sigorta şirketleri, bir takvim yılına ilişkin katılma paylarını takip eden yılın Şubat ayı sonuna kadar; sigorta ettirenlerden tahsil edilen katılma paylarını ise tahsil edildikleri ayı takip eden ayın sonuna kadar Hesaba yatırmak zorundadır."
+  },
+  {
+    "input": "Güvence Hesabı nasıl denetlenir?",
+    "output": "Hesabın gelir ve giderleri ile işlemleri, Müsteşarlıkça her yıl denetlenir."
+  },
+  {
+    "input": "Cumhurbaşkanı yurt dışında yaptırılabilecek sigortaları genişletebilir mi?",
+    "output": "Cumhurbaşkanı yurt dışında yaptırılabilecek sigortaların kapsamını genişletmeye yetkilidir."
+  },
+  {
+    "input": "Devam eden riskler karşılığı ne zaman ayrılır?",
+    "output": "Devam eden riskler karşılığı; kazanılmamış primler karşılığının şirketin taşıdığı risk ve beklenen masraf düzeyine göre yetersiz kalması halinde ayrılır."
+  },
+  {
+    "input": "Dengeleme karşılığı nedir?",
+    "output": "Dengeleme karşılığı; takip eden hesap dönemlerinde meydana gelebilecek tazminat oranlarındaki dalgalanmaları dengelemek ve Müsteşarlıkça belirlenen özel rizikoları karşılamak üzere ayrılan karşılıktır."
+  },
+  {
+    "input": "İkramiyeler ve indirimler karşılığı nedir?",
+    "output": "İkramiyeler ve indirimler karşılığı; sigorta şirketlerinin ikramiye veya indirim uygulamasına gitmesi durumunda, carî yılın teknik sonuçlarına göre sigortalılar veya lehdarlar için ayrılan ikramiye ve indirim tutarlarından oluşur."
+  },
+  {
+    "input": "Teknik karşılıklarda reasürör payı nasıl olmalı?",
+    "output": "Teknic karşılıklarda reasürör payının, devredilen risk ve primle orantılı olması esastır."
+  },
+  {
+    "input": "Sigorta şirketlerinin varlık yeterliliği nasıl olmalı?",
+    "output": "Sigorta şirketleri ile reasürans şirketlerinin varlıkları, teknik karşılıkları karşılayacak düzeyde olmalıdır."
+  },
+  {
+    "input": "Hayat sigorta şirketlerinin matematik karşılık hesaplaması nasıl yapılır?",
+    "output": "Hayat branşında faaliyet gösteren sigorta şirketleri, Müsteşarlıkça belirlenen dönemler itibarıyla ayrılan matematik karşılıkları ile muallak tazminat karşılıklarının toplamından, ikrazlar ve tahsil edilmemiş prim alacakları tutarına isabet eden matematik karşılıkların düşülmesinden sonra kalan tutara karşılık teminat bloke etmek zorundadır."
+  },
+  {
+    "input": "Hayat dışı sigorta şirketleri hangi teminatı tesis eder?",
+    "output": "Hayat dışı sigorta şirketleri, gerekli özsermayenin üçte birinden az olmamak kaydıyla teminat olarak minimum garanti fonu tesis eder."
+  },
+  {
+    "input": "Müsteşarlık teminatları artırıp azaltabilir mi?",
+    "output": "Müsteşarlık, sigortacılık sektörünün durumu ile genel ekonomik şartlar çerçevesinde teminatları yüzde elli oranına kadar artırmaya veya azaltmaya yetkilidir."
+  }
+]
